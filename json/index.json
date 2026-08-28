@@ -1,0 +1,85 @@
+[
+    {
+        "type": "blog",
+        "slug": "axonless-cell-communication-a-shortrange-biological-signaling",
+        "title": "Axonless Cell Communication: A Short‑Range Biological Signaling",
+        "category": "Biology",
+        "date": "June 12, 2024",
+        "excerpt": "Cell communication is typically described through chemical and electrical processes. Chemical signaling relies on ions, molecules, and hormones, wh..."
+    },
+    {
+        "type": "blog",
+        "slug": "quantum-computing-as-a-conceptual-misstep",
+        "title": "Quantum Computing as a Conceptual Misstep",
+        "category": "Technology",
+        "date": "April 15, 2024",
+        "excerpt": "Quantum computing is widely promoted as the next revolutionary step in information processing, promising exponential speed‑ups for certain classe..."
+    },
+    {
+        "type": "blog",
+        "slug": "why-physicists-are-struggling-to-achieve-significant-breakthroughs",
+        "title": "Why Physicists Are Struggling to Achieve Significant Breakthroughs",
+        "category": "Physics",
+        "date": "July 19, 2024",
+        "excerpt": "Despite unprecedented technological capabilities and vast theoretical output, modern physics has experienced limited foundational progress over the..."
+    },
+    {
+        "type": "blog",
+        "slug": "photons-are-a-madeup-concept",
+        "title": "Photons Are a Made‑Up Concept",
+        "category": "Physics",
+        "date": "October 8, 2024",
+        "excerpt": "The photon is widely treated in modern physics as a fundamental particle and the basic unit of electromagnetic radiation. This interpretation, root..."
+    },
+    {
+        "type": "blog",
+        "slug": "where-life-begins-a-subelementary-framework-for-agency-in-organized-matter",
+        "title": "Where Life Begins: A Sub‑Elementary Framework for Agency in Organized Matter",
+        "category": "Biology",
+        "date": "November 1, 2024",
+        "excerpt": "Life has no universally accepted definition across scientific disciplines. Biological, chemical, and philosophical frameworks each impose criteria ..."
+    },
+    {
+        "type": "blog",
+        "slug": "the-zot-particle-a-substrate-beneath-matter-forces-and-the-cosmic-structure",
+        "title": "The Zot Particle: A Substrate Beneath Matter, Forces, and the Cosmic Structure",
+        "category": "Physics",
+        "date": "February 6, 2024",
+        "excerpt": "In early 2023, the first spark of this idea arrived in an entirely ordinary moment. I was sitting on my couch, casually watching a documentary abou..."
+    },
+    {
+        "type": "vlog",
+        "slug": "axonless-cell-communication",
+        "title": "Axonless Cell Communication",
+        "date": "September 7, 2025",
+        "excerpt": "This video explores how cells communicate using axons..."
+    },
+    {
+        "type": "vlog",
+        "slug": "theory-of-zot-particles-universe-expansion-speed-of-zot",
+        "title": "Theory Of Zot Particles | Universe expansion & speed of zot ...",
+        "date": "September 7, 2025",
+        "excerpt": ""
+    },
+    {
+        "type": "vlog",
+        "slug": "quantum-computing-is-a-worthless-concept",
+        "title": "Quantum computing is a worthless concept",
+        "date": "September 7, 2025",
+        "excerpt": ""
+    },
+    {
+        "type": "vlog",
+        "slug": "theory-of-zot-particles-black-holes-space-bubbles",
+        "title": "Theory Of Zot Particles | Black Holes (Space Bubbles)",
+        "date": "September 7, 2025",
+        "excerpt": ""
+    },
+    {
+        "type": "vlog",
+        "slug": "theory-of-zot-particles-introduction",
+        "title": "Theory Of Zot Particles | Introduction",
+        "date": "September 7, 2025",
+        "excerpt": ""
+    }
+]

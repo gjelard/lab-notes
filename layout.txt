@@ -1,0 +1,16 @@
+├── index.html
+├── 404.html        <-- Intercepts broken directory links or refreshes
+├── .nojekyll       <-- Prevents GitHub server tracking exclusions
+├── css/
+│   └── style.css   <-- Light/Dark properties and reading layouts
+├── js/
+│   └── app.js      <-- Main router engine, search filter, and theme logic
+├── img/
+│   ├── axonless_cell.png
+│   └── electromagnetic-waves.jpg
+└── json/
+    ├── index.json  <-- Extracted structural manifest index registry
+    ├── blog/
+    │   └── [compiled article files].json
+    └── vlog/
+        └── [compiled video profile data].json
