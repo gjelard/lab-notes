@@ -6,7 +6,7 @@
     <script type="text/javascript">
         // Intercept 404 pathing, extract target subroutes, and pass them cleanly back via routing hashes
         var currentPath = window.location.pathname;
-        var repoName = "/"; // If your URL has a repo name subdirectory structure (e.g. /my-blog/), change this string to match it
+        var repoName = "/lab-notes/";
 
         // Clean out path strings and forward back home cleanly
         var targetHash = '#/' + currentPath.replace(repoName, '').replace(/^\/|\/$/g, '');
